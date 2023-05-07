@@ -1,0 +1,107 @@
+<mxfile host="app.diagrams.net" modified="2023-05-07T13:36:46.495Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="GPUtBfbvPoLdqmDZ4orD" version="21.2.6" type="device">
+  <diagram name="Страница 1" id="UujZy2Ch10Zx4dTmsvr0">
+    <mxGraphModel dx="301" dy="163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QH7KyKVdKtFlSCbq0CPL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QH7KyKVdKtFlSCbq0CPL-2" target="QH7KyKVdKtFlSCbq0CPL-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QH7KyKVdKtFlSCbq0CPL-2" value="Начало" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QH7KyKVdKtFlSCbq0CPL-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QH7KyKVdKtFlSCbq0CPL-3" target="QH7KyKVdKtFlSCbq0CPL-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QH7KyKVdKtFlSCbq0CPL-3" value="Изображение&amp;nbsp;&lt;br&gt;с шумом" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QH7KyKVdKtFlSCbq0CPL-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QH7KyKVdKtFlSCbq0CPL-5" target="QH7KyKVdKtFlSCbq0CPL-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QH7KyKVdKtFlSCbq0CPL-5" value="Определить&lt;br&gt;количество и тип шума" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QH7KyKVdKtFlSCbq0CPL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QH7KyKVdKtFlSCbq0CPL-7" target="QH7KyKVdKtFlSCbq0CPL-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QH7KyKVdKtFlSCbq0CPL-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QH7KyKVdKtFlSCbq0CPL-7" target="QH7KyKVdKtFlSCbq0CPL-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QH7KyKVdKtFlSCbq0CPL-7" value="Шум соли?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QH7KyKVdKtFlSCbq0CPL-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QH7KyKVdKtFlSCbq0CPL-10" target="QH7KyKVdKtFlSCbq0CPL-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="795" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QH7KyKVdKtFlSCbq0CPL-10" value="Применить&lt;br&gt;нейронную сеть&lt;br&gt;для шума соли" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QH7KyKVdKtFlSCbq0CPL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QH7KyKVdKtFlSCbq0CPL-13" target="QH7KyKVdKtFlSCbq0CPL-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="795" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QH7KyKVdKtFlSCbq0CPL-13" value="Применить&lt;br&gt;нейронную сеть&lt;br&gt;для шума перца" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QH7KyKVdKtFlSCbq0CPL-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QH7KyKVdKtFlSCbq0CPL-19" target="QH7KyKVdKtFlSCbq0CPL-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QH7KyKVdKtFlSCbq0CPL-19" value="Разбить&lt;br&gt;изображение&lt;br&gt;на патчи" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QH7KyKVdKtFlSCbq0CPL-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QH7KyKVdKtFlSCbq0CPL-23" target="QH7KyKVdKtFlSCbq0CPL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QH7KyKVdKtFlSCbq0CPL-23" value="Цикл по&lt;br&gt;всем патчам" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QH7KyKVdKtFlSCbq0CPL-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QH7KyKVdKtFlSCbq0CPL-26" target="QH7KyKVdKtFlSCbq0CPL-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QH7KyKVdKtFlSCbq0CPL-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QH7KyKVdKtFlSCbq0CPL-26" target="QH7KyKVdKtFlSCbq0CPL-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QH7KyKVdKtFlSCbq0CPL-26" value="Шум есть?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="530" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QH7KyKVdKtFlSCbq0CPL-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QH7KyKVdKtFlSCbq0CPL-30" target="QH7KyKVdKtFlSCbq0CPL-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="960" />
+              <mxPoint x="390" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QH7KyKVdKtFlSCbq0CPL-30" value="Применить&lt;br&gt;нейронную сеть&lt;br&gt;для небольшого&lt;br&gt;шума" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QH7KyKVdKtFlSCbq0CPL-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QH7KyKVdKtFlSCbq0CPL-32" target="QH7KyKVdKtFlSCbq0CPL-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QH7KyKVdKtFlSCbq0CPL-32" value="Применить&lt;br&gt;медианный&lt;br&gt;фильтр" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QH7KyKVdKtFlSCbq0CPL-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QH7KyKVdKtFlSCbq0CPL-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="980" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="960" />
+              <mxPoint x="391" y="960" />
+              <mxPoint x="391" y="980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QH7KyKVdKtFlSCbq0CPL-33" value="Применить&lt;br&gt;нейронную сеть&lt;br&gt;для восстановления&lt;br&gt;исходных цветов" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="890" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QH7KyKVdKtFlSCbq0CPL-37" value="Конец цикла" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="330" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

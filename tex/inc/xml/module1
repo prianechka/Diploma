@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2023-05-07T17:45:22.603Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Z_tfrfx3nTKSEB4CS0Bm" version="21.2.9" type="device">
+  <diagram name="Страница 1" id="Pl_hIVWTRkjHIHvqWLMs">
+    <mxGraphModel dx="894" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fXQLkmi609lfCe71_Atn-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fXQLkmi609lfCe71_Atn-2" target="fXQLkmi609lfCe71_Atn-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fXQLkmi609lfCe71_Atn-2" value="Загрузка&amp;nbsp;&lt;br style=&quot;font-size: 18px;&quot;&gt;исходного&lt;br style=&quot;font-size: 18px;&quot;&gt;датасета" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="54" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fXQLkmi609lfCe71_Atn-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fXQLkmi609lfCe71_Atn-3" target="fXQLkmi609lfCe71_Atn-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fXQLkmi609lfCe71_Atn-3" value="Создание&lt;br style=&quot;font-size: 18px;&quot;&gt;данных для обучения" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="204" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fXQLkmi609lfCe71_Atn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fXQLkmi609lfCe71_Atn-4" target="fXQLkmi609lfCe71_Atn-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fXQLkmi609lfCe71_Atn-4" value="Тренировка модели" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="354" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fXQLkmi609lfCe71_Atn-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fXQLkmi609lfCe71_Atn-5" target="fXQLkmi609lfCe71_Atn-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fXQLkmi609lfCe71_Atn-5" value="Модель&amp;nbsp;&lt;br style=&quot;font-size: 18px;&quot;&gt;нейронной сети" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="354" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fXQLkmi609lfCe71_Atn-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fXQLkmi609lfCe71_Atn-6" target="fXQLkmi609lfCe71_Atn-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fXQLkmi609lfCe71_Atn-6" value="Валидация&amp;nbsp;&lt;br style=&quot;font-size: 18px;&quot;&gt;результатов" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="510" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fXQLkmi609lfCe71_Atn-7" value="Сохранение&lt;br style=&quot;font-size: 18px;&quot;&gt;обученных&lt;br&gt;моделей" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="660" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
