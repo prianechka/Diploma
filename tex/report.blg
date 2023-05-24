@@ -1,0 +1,81 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: report.aux
+A level-1 auxiliary file: 00-title.aux
+A level-1 auxiliary file: 01-abstract.aux
+A level-1 auxiliary file: 02-naming.aux
+A level-1 auxiliary file: 03-intro.aux
+A level-1 auxiliary file: 10-analysis.aux
+A level-1 auxiliary file: 20-design.aux
+A level-1 auxiliary file: 30-technology.aux
+A level-1 auxiliary file: 40-research.aux
+A level-1 auxiliary file: 50-conclusion.aux
+A level-1 auxiliary file: 60-bibliography.aux
+The style file: utf8gost705u.bst
+A level-1 auxiliary file: 70-application.aux
+A level-1 auxiliary file: 71-application.aux
+Database file #1: biblio.bib
+I was expecting a `,' or a `}'---line 128 of file biblio.bib
+ :  
+ :  journal = {IEEE Access}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 158 of file biblio.bib
+ :  
+ :  journal = {IEEE Access}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 194 of file biblio.bib
+ :  
+ :  journal = {IEEE Access}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--entry type for "CNN_2" isn't style-file defined
+--line 268 of file biblio.bib
+Warning--empty journal in kodak
+Warning--empty journal in ridnet
+Warning--empty journal in median2
+Warning--empty journal in ridnet2
+Warning--empty journal in rs
+You've used 29 entries,
+            2958 wiz_defined-function locations,
+            821 strings with 9331 characters,
+and the built_in function-call counts, 8752 in all, are:
+= -- 1181
+> -- 180
+< -- 32
++ -- 67
+- -- 38
+* -- 342
+:= -- 958
+add.period$ -- 103
+call.type$ -- 29
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 34
+duplicate$ -- 437
+empty$ -- 879
+format.name$ -- 38
+if$ -- 2383
+int.to.chr$ -- 0
+int.to.str$ -- 29
+missing$ -- 0
+newline$ -- 173
+num.names$ -- 85
+pop$ -- 248
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 295
+stack$ -- 0
+substring$ -- 421
+swap$ -- 266
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 5
+while$ -- 59
+width$ -- 31
+write$ -- 434
+(There were 3 error messages)

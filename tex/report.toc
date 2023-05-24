@@ -1,0 +1,50 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{РЕФЕРАТ}{5}{}%
+\contentsline {section}{ВВЕДЕНИЕ}{9}{}%
+\contentsline {section}{\numberline {1}Аналитический раздел}{10}{}%
+\contentsline {subsection}{\numberline {1.1}Анализ предметной области}{10}{}%
+\contentsline {subsubsection}{\numberline {1.1.1}Гауссов шум}{11}{}%
+\contentsline {subsubsection}{\numberline {1.1.2}Импульсный шум}{12}{}%
+\contentsline {subsection}{\numberline {1.2}Нейронные сети}{13}{}%
+\contentsline {subsubsection}{\numberline {1.2.1}Сверточная нейронная сеть}{17}{}%
+\contentsline {subsection}{\numberline {1.3}Обзор существующих методов}{19}{}%
+\contentsline {subsection}{\numberline {1.4}Общий алгоритм работы фильтров}{20}{}%
+\contentsline {subsubsection}{\numberline {1.4.1}Медианный фильтр}{21}{}%
+\contentsline {subsubsection}{\numberline {1.4.2}Гауссовский фильтр}{22}{}%
+\contentsline {subsubsection}{\numberline {1.4.3}Билатеральный фильтр}{23}{}%
+\contentsline {subsubsection}{\numberline {1.4.4}Алгоритм Цзяньвэй}{24}{}%
+\contentsline {subsubsection}{\numberline {1.4.5}DnCNN}{25}{}%
+\contentsline {subsubsection}{\numberline {1.4.6}RIDNet}{27}{}%
+\contentsline {subsection}{\numberline {1.5}Критерии сравнения алгоритмов}{28}{}%
+\contentsline {subsubsection}{\numberline {1.5.1}PSNR}{28}{}%
+\contentsline {subsubsection}{\numberline {1.5.2}SSIM}{29}{}%
+\contentsline {subsection}{\numberline {1.6}Классификация существующих решений}{30}{}%
+\contentsline {subsection}{\numberline {1.7}Формулировка цели}{31}{}%
+\contentsline {subsection}{\numberline {1.8}Формализация задачи. IDEF0-диаграмма}{32}{}%
+\contentsline {section}{\numberline {2}Конструкторский раздел}{34}{}%
+\contentsline {subsection}{\numberline {2.1}Требования к разрабатываемому методу}{34}{}%
+\contentsline {subsection}{\numberline {2.2}Требования к разрабатываемому программному комплексу}{34}{}%
+\contentsline {subsection}{\numberline {2.3}Проектирование метода удаления шумов}{35}{}%
+\contentsline {subsubsection}{\numberline {2.3.1}Основной алгоритм работы}{35}{}%
+\contentsline {subsubsection}{\numberline {2.3.2}Подсчет количества шумов в изображении}{37}{}%
+\contentsline {subsubsection}{\numberline {2.3.3}Конфигурация нейронных сетей}{39}{}%
+\contentsline {subsubsection}{\numberline {2.3.4}Данные для обучения модели}{39}{}%
+\contentsline {subsection}{\numberline {2.4}Структура программного комплекса}{40}{}%
+\contentsline {section}{\numberline {3}Технологический раздел}{42}{}%
+\contentsline {subsection}{\numberline {3.1}Средства реализации программного комплекса}{42}{}%
+\contentsline {subsubsection}{\numberline {3.1.1}Выбор языка программирования}{42}{}%
+\contentsline {subsection}{\numberline {3.2}Формат входных и выходных данных}{43}{}%
+\contentsline {subsection}{\numberline {3.3}Реализация программного комплекса}{43}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}Нейронная сеть}{44}{}%
+\contentsline {subsubsection}{\numberline {3.3.2}Результаты обучения нейронной сети}{44}{}%
+\contentsline {subsubsection}{\numberline {3.3.3}Реализация метода}{46}{}%
+\contentsline {subsection}{\numberline {3.4}Демонстрация работы программы}{48}{}%
+\contentsline {subsection}{\numberline {3.5}Тестирование разработанного метода}{49}{}%
+\contentsline {section}{\numberline {4}Исследовательский раздел}{51}{}%
+\contentsline {subsection}{\numberline {4.1}Исследование зависимости PSNR от порога применения}{51}{}%
+\contentsline {subsection}{\numberline {4.2}Сравнение реализованного метода с аналогами}{52}{}%
+\contentsline {subsection}{\numberline {4.3}Оценка разработанного программного комплекса}{54}{}%
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{55}{}%
+\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{56}{}%
+\contentsline {section}{ПРИЛОЖЕНИЕ А}{59}{}%
+\contentsline {section}{ПРИЛОЖЕНИЕ Б}{62}{}%

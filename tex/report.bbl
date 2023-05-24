@@ -1,0 +1,207 @@
+\begin{thebibliography}{10}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\language\csname l@#1\endcsname\fi}
+\ifx\undefined\url\def\url#1{{\small #1}}\else\fi
+\ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
+\ifx\undefined\BibAnnote\long\def\BibAnnote#1{(#1)}\else\fi
+\ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
+
+\bibitem{shum}
+\selectlanguageifdefined{russian}
+Thanh~Hien~Nguyen. Image Noise Removal Method Based on Thresholding and
+  Regularization Techniques~// IEEE Access.
+\newblock 2022.
+\newblock {С.}~71584--71597.
+
+\bibitem{software}
+\selectlanguageifdefined{russian}
+H.W.~Khushi. Impulse Noise Removal Using Soft-computing~// Lahore Garrison
+  University Research Journal of Computer Science and Information Technology.
+\newblock 2022.
+\newblock {С.}~32--48.
+
+\bibitem{nn1s}
+\selectlanguageifdefined{russian}
+M.L.~Nguyen. BoostNet: A Boosted Convolutional Neural Network for Image Blind
+  Denoising~// IEEE Access.
+\newblock 2021.
+
+\bibitem{kodak}
+\selectlanguageifdefined{russian}
+Rabie~T. Adaptive Median Filtering of CCD Sensor Noise.
+\newblock 2005.
+
+\bibitem{causes}
+\selectlanguageifdefined{russian}
+Зотов~П.В. Цифровой шум изображения и его
+  прикладное значение в криминалистике~//
+  Вестник СГЮА.
+\newblock 2015.
+
+\bibitem{impact}
+\selectlanguageifdefined{russian}
+Голдобин~И.А.~Климова~Е.И. Влияние шумов на
+  алгоритмы цифровой обработки
+  изображений~// Актуальные вопросы
+  развития современной цифровой среды.
+\newblock 2021.
+\newblock {С.}~396--402.
+
+\bibitem{filterTechincs}
+\selectlanguageifdefined{russian}
+Hambal~Abdalla~Mohamed. Image Noise Reduction and Filtering Techniques~//
+  International Journal of Science and Research (IJSR).
+\newblock 2017.
+\newblock {С.}~2033--2037.
+
+\bibitem{mix}
+\selectlanguageifdefined{russian}
+H.W.~Xiangming. An improved nonlocal means‐based correction strategy for
+  mixed noise removal~// IET Image Processing.
+\newblock 2022.
+
+\bibitem{inproceedings}
+\selectlanguageifdefined{russian}
+Ćeranić Š.T. Noise reduction quality test for two-photon laser scanning
+  microscopic images~// IEEE Access.
+\newblock 2022.
+
+\bibitem{moments}
+\selectlanguageifdefined{russian}
+G.M.~Ganesan. Noise Detection in Images using Moments~// Research Journal of
+  Applied Sciences, Engineering and Technology.
+\newblock 2015.
+\newblock {С.}~307--314.
+
+\bibitem{relu}
+\selectlanguageifdefined{russian}
+Aylwin~Rubén, Henríquez~Fernando, Schwab~Christoph. ReLU Neural Network
+  Galerkin BEM~// Journal of Scientific Computing.
+\newblock 2023.  03.
+\newblock Т.~95.
+
+\bibitem{CNN_translate}
+\selectlanguageifdefined{russian}
+Image Classification Based on Light Convolutional Neural Network Using Pulse
+  Couple Neural Network~/ Maminiaina~Rafidison, Hajasoa~Ramafiarisona,
+  Paul~Randriamitantsoa {[и~др.]}~// Computational Intelligence and
+  Neuroscience.
+\newblock 2023.  03.
+\newblock Т. 2023.
+\newblock {С.}~1--17.
+
+\bibitem{CNN_research}
+\selectlanguageifdefined{russian}
+Lin~Xiyu. Research of Convolutional Neural Network on Image Classification~//
+  Highlights in Science, Engineering and Technology.
+\newblock 2023.  04.
+\newblock Т.~39.
+\newblock {С.}~855--862.
+
+\bibitem{CNN_2}
+\selectlanguageifdefined{russian}
+Karrach~Ladislav, Pivarciova~Elena. Using a Convolutional Neural Network for
+  Machine Written Character Recognition.
+\newblock 2023.  03.
+
+\bibitem{CNN_arch}
+\selectlanguageifdefined{russian}
+Sle-CNN: a novel convolutional neural network for sleep stage classification~/
+  Zhenman~Zhang, Yu~Xue, Adam~Slowik {[и~др.]}~// Neural Computing and
+  Applications.
+\newblock 2023.  04.
+\newblock {С.}~1--16.
+
+\bibitem{CNN_pool}
+\selectlanguageifdefined{russian}
+Liu~Ruishen. Face Recognition Based on Convolutional Neural Networks~//
+  Highlights in Science, Engineering and Technology.
+\newblock 2022.  11.
+\newblock Т.~16.
+\newblock {С.}~32--39.
+
+\bibitem{ridnet}
+\selectlanguageifdefined{russian}
+X.~Li. RIDNet: Recursive Information Distillation Network for Color Image
+  Denoising.
+\newblock 2019.
+\newblock {С.}~3896--3903.
+
+\bibitem{neural}
+\selectlanguageifdefined{russian}
+M.~Fujimoto. Noise Removal for Degraded Images Using Neural Networks~// IEEJ
+  Transactions on Electronics, Information and Systems.
+\newblock 2002.
+\newblock {С.}~1301--1308.
+
+\bibitem{color}
+\selectlanguageifdefined{russian}
+A.~Bandyopadhyay. High Density Impulse Noise Removal from Color Images by
+  K-means Clustering based Detection and Least Manhattan Distance-oriented
+  Removal Approach~// International Journal of Advanced Computer Science and
+  Applications.
+\newblock 2021.
+\newblock {С.}~608--614.
+
+\bibitem{median}
+\selectlanguageifdefined{russian}
+S.~Khan. An adaptive dynamically weighted median filter for impulse noise
+  removal~// EURASIP Journal on Advances in Signal Processing.
+\newblock 2017.
+
+\bibitem{median2}
+\selectlanguageifdefined{russian}
+Kunsoth~R.~Biswas~M. Modified decision based median filter for impulse noise
+  removal.
+\newblock 2016.
+\newblock {С.}~1316--1319.
+
+\bibitem{bilateral}
+\selectlanguageifdefined{russian}
+M.~Nabahat. Optimization of bilateral filter parameters using a whale
+  optimization algorithm~// Research in Mathematics.
+\newblock 2022.
+
+\bibitem{color_image}
+\selectlanguageifdefined{russian}
+Wang~Jianwei. A Noise Removal Algorithm of Color Image~// TELKOMNIKA Indonesian
+  Journal of Electrical Engineering.
+\newblock 2014.
+
+\bibitem{dcnn}
+\selectlanguageifdefined{russian}
+V.~Murali. Image Denoising Using DnCNN: An Exploration Study~// IEEE Access.
+\newblock 2020.
+\newblock {С.}~847--859.
+
+\bibitem{dcnn2}
+\selectlanguageifdefined{russian}
+K.~Zhang. Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image
+  Denoising~// IEEE Transactions on Image Processing.
+
+\bibitem{ridnet2}
+\selectlanguageifdefined{russian}
+N.~Loubere. RiDNet Practical Fieldwork Notes.
+\newblock 2012.
+
+\bibitem{vs}
+\selectlanguageifdefined{russian}
+D.M.~Setiadi. PSNR vs SSIM: imperceptibility quality assessment for image
+  steganography~// Multimedia Tools and Applications.
+\newblock 2021.
+
+\bibitem{rs}
+\selectlanguageifdefined{russian}
+M.~Nouman. Evaluation of Image Super Resolution Deep Learning Technique based
+  on PSNR Value.
+\newblock 2022.
+\newblock {С.}~93--122.
+
+\bibitem{ssim}
+\selectlanguageifdefined{russian}
+V.~Subramanian. SSIM Compliant Modeling Framework With Denoising and Deblurring
+  Applications~// IEEE Transactions on Image Processing.
+\newblock 2021.
+
+\end{thebibliography}
