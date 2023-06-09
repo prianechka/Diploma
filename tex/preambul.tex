@@ -58,7 +58,9 @@
 
 
 \usepackage{caption}
-\captionsetup{justification=raggedright,singlelinecheck=false}
+
+\captionsetup{justification=raggedright,singlelinecheck=false,labelsep=defffis}
+\captionsetup[table]{justification=raggedleft,singlelinecheck=false}
 \addto\captionsrussian{\def\refname{Список использованных источников}}
 \usepackage{url}
 
@@ -102,3 +104,7 @@
 \usepackage[figure,table]{totalcount} % Подсчет изображений, таблиц
 \usepackage{rotating} % Поворот изображения вместе с названием
 \usepackage{lastpage} % Для подсчета числа страниц
+\renewcommand{\labelitemi}{---}
+\numberwithin{equation}{section}
+\numberwithin{figure}{section}
+\usepackage{csquotes}

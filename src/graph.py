@@ -20,15 +20,15 @@ def neural_network_graph():
     X = range(1, 34)
     plt.plot(X, LOSS, label="Значение loss")
     plt.title("График зависимости метрики loss от количества эпох")
-    plt.xlabel("Эпоха")
-    plt.ylabel("loss")
+    plt.xlabel("Эпоха, кол.")
+    plt.ylabel("loss, у.е.")
     plt.legend()
     plt.show()
 
     plt.plot(X, VAL_LOSS, label="Значение val_loss")
     plt.title("График зависимости метрики val_loss от количества эпох")
-    plt.xlabel("Эпоха")
-    plt.ylabel("val_loss")
+    plt.xlabel("Эпоха, кол.")
+    plt.ylabel("val_loss, у.е.")
     plt.legend()
     plt.show()
 
@@ -37,7 +37,7 @@ font = {'size': 12}
 
 plt.rc('font', **font)
 
-## neural_network_graph()
+neural_network_graph()
 
 
 def testing_method(flag=1):
@@ -64,8 +64,8 @@ def testing_method(flag=1):
     X = range(1, 31)
     plt.plot(X, result, label="PSNR")
     plt.title("График зависимости метрики PSNR от количества шума")
-    plt.xlabel("Процент шума")
-    plt.ylabel("PSNR")
+    plt.xlabel("Процент шума, %")
+    plt.ylabel("PSNR, дБ")
     plt.legend()
     plt.show()
 
